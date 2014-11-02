@@ -1,0 +1,6 @@
+c:\users\balázs\documents\visual studio 2013\Projects\JobObjects\JobObjectsApp\bin\Debug\JobObjectsApp.exe.config
+c:\users\balázs\documents\visual studio 2013\Projects\JobObjects\JobObjectsApp\obj\Debug\JobObjectsApp.csprojResolveAssemblyReference.cache
+c:\users\balázs\documents\visual studio 2013\Projects\JobObjects\JobObjectsApp\bin\Debug\JobObjectsApp.exe
+c:\users\balázs\documents\visual studio 2013\Projects\JobObjects\JobObjectsApp\bin\Debug\JobObjectsApp.pdb
+c:\users\balázs\documents\visual studio 2013\Projects\JobObjects\JobObjectsApp\obj\Debug\JobObjectsApp.exe
+c:\users\balázs\documents\visual studio 2013\Projects\JobObjects\JobObjectsApp\obj\Debug\JobObjectsApp.pdb
